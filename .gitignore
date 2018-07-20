@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so…
+
+# Pytest cache
+.pytest_cache/
+
+# Project infrastructure
+bin/
+include/
+lib/
+lib64/
+pip-selfcheck.json
